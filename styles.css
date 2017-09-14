@@ -1,0 +1,43 @@
+header {
+    padding: 20px;
+    margin-left: 520px;
+    font-family: "Helvetica";
+}
+
+.sub {
+    font-size:13px; 
+    color:#817878;
+    margin-left: 25px;
+}
+
+p{
+    font-family: "Century Gothic";
+}
+
+h2{
+    font-family: "Helvetica";
+}
+
+article{
+    padding:20px;
+}
+
+#left h2, #left img, #left p {
+    margin-left: 200px;
+    margin-right: 300px;
+}
+
+#right p {
+    
+     margin-left: 300px;
+     margin-right: 200px;
+ }
+
+ #right img, #right h2{
+     margin-left: 630px;
+ }
+
+ footer{
+     font-size: 12px;
+     margin-left:600px;
+ }
